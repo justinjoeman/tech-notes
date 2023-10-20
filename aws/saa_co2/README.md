@@ -1,0 +1,3 @@
+# Study notes for the AWS Solutions Architect Associate (SAA-C02)
+
+Just adding my hand written notes for the SAA-C02 that was done back in 2020. Most likely outdated but still might be useful for someone...
